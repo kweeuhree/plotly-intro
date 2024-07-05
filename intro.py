@@ -14,3 +14,6 @@ df_1.head() # show first five items
 
 # compare old plots
 df_1.plot()
+
+## line plots
+
